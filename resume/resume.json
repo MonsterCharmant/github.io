@@ -1,23 +1,23 @@
 {
   "data_lang": "zh-CN",
   "ga_id": "UA-63818301-2",
-  "resume_title": "张秋怡 - 个人简历",
-  "name": "张秋怡",
-  "repo": "https://github.com/joyeecheung/resume.git",
+  "resume_title": "孙晓旭 - 个人简历",
+  "name": "孙晓旭",
+  "repo": "https://github.com/monstercharmant/resume.git",
   "job_description": ["前端工程师", "软件工程师"],
   "contact": {
-    "phone": "13824481874",
-    "email": "joyeec9h3@gmail.com",
+    "phone": "18844195530",
+    "email": "songxuemeng10@qq.com",
     "wechat": {
-      "id": "joyee-cheung",
-      "qrcode": "static/wechat.svg"
+      "id": "fly@fish",
+      "qrcode": "static/psb.webp"
     },
     "sinaweibo": {
-      "id": "SYSU_Joyee",
-      "url": "http://weibo.com/2930876843"
+      "id": "18844195530",
+      "url": "http://weibo.com/18844195530"
     },
     "github": {
-      "id": "joyeecheung"
+      "id": "monstercharmant"
     },
     "blog": {
       "url": "http://joyeecheung.cnblogs.com"
@@ -25,28 +25,28 @@
   },
   "links": [{
     "type": "repo",
-    "url": "https://github.com/joyeecheung/resume"
+    "url": "https://github.com/monstercharmant/resume"
 
   }, {
     "type": "pdf",
-    "url": "static/joyeecheung.pdf"
+    "url": "static/flyfish.pdf"
 
   }, {
     "type": "zhihu",
-    "url": "http://www.zhihu.com/people/zhang-qiu-yi-27/"
+    "url": ""
   }, {
     "type": "doubanbook",
-    "url": "http://book.douban.com/people/joyee-cheung/"
+    "url": ""
   }],
   "education": [{
     "type": "undergraduate",
-    "name": "中山大学",
+    "name": "吉林大学",
     "major": "软件工程",
     "start": "2012",
     "end": "2016",
     "honor": [
-      "2012 - 2013 学年度校**三等奖学金**",
-      "2013 - 2014 学年度校**一等奖学金**"
+      "2012 - 2013 全国计算机大赛**二等奖**",
+      "2013 - 2014 吉林大学创新项目**国家一级**"
     ]
   }],
   "language": [{
@@ -54,16 +54,14 @@
     "certificate": [{
       "type": "CET-4",
       "full": "750",
-      "score": "679"
+      "score": "475"
     }, {
       "type": "CET-6",
       "full": "750",
-      "score": "616"
+      "score": "0"
     }],
     "description": [
-      "能流畅阅读英文专业书籍、文档及其他资料",
-      "可无字幕观看 MOOC 课程、开发者大会视频",
-      "能够在英文邮件列表、Stack Overflow 等社区正常交流"
+      "对前后端深入了解，注意代码的优化"
     ]
   }],
   "experience": [{
